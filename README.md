@@ -42,7 +42,7 @@ To run this project locally or deploy it:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/NikhTheTech/Smart-Contract-Management
+   [git clone https://github.com/jasrotia15/Module2-Smart-Contract-Management-.git]
    ```
 
 **Follow these steps to get the project up and running**
