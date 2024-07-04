@@ -20,7 +20,7 @@ This project showcases a basic implementation of a decentralized bank using Ethe
 
 - Connect wallet to interact with the blockchain.
 - Display account name, address, and balance.
-- Change account name and transfer funds functionalities.
+- Change account name and transfer funds functionalities is there.
 
 ## Technologies Used
 
